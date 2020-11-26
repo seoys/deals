@@ -13,5 +13,10 @@ A DUFFEL BAG WITH A SIDE POCKET
 Organize everything you need for a weekend tournament in this versatile duffel bag. It has a side pocket, so a snack is always within reach. The zip main compartment is for easy loading and unloading.
 
 <!-- image : ![상품 이미지!](/deals/images/2020112601.png) -->
+```
 Link : [Link](https://www.reebok.com/us/black_friday-free_bag)
+```
+
+```
 Code : <strong>BLACKFRI</strong>
+```
