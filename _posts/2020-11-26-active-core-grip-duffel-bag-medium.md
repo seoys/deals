@@ -12,6 +12,6 @@ ACTIVE CORE GRIP DUFFEL BAG MEDIUM
 A DUFFEL BAG WITH A SIDE POCKET<br>
 Organize everything you need for a weekend tournament in this versatile duffel bag. It has a side pocket, so a snack is always within reach. The zip main compartment is for easy loading and unloading.
 
-image : ![상품 이미지!](https://seoys.github.io/deals/images/2020112601.png)<br>
+image : ![상품 이미지!](https://seoys.github.io/assets/images/deal/2020112601.png)<br>
 Link : [Link](https://www.reebok.com/us/black_friday-free_bag)<br>
 Code : <strong>BLACKFRI</strong>
