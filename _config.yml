@@ -6,7 +6,7 @@ logo: 'assets/images/choco.png'
 favicon: 'assets/images/choco.png'
 baseurl: /deals
 google_analytics: 'G-2G80BEFMCX'
-disqus: ''
+disqus: 'seoysDeals'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 mailchimp-list: ''
 include: ["_pages"]
