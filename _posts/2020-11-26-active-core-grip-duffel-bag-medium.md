@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ACTIVE CORE GRIP DUFFEL BAG MEDIUM($0/Free)"
-author: seo
+author: seoys
 categories: [ deal ]
 tags: [ reebok ]
 image: https://assets.reebok.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy/e4b8b8047f6c4ad68f8cabc100eaa696_9366/Active_Core_Grip_Duffel_Bag_Medium_Burgundy_GH0356_01_standard.jpg
