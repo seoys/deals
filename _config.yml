@@ -2,8 +2,8 @@
 name: "HotDeals"
 title: "Awesome HotDeals"
 description: ""
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/choco.png'
+favicon: 'assets/images/choco.png'
 baseurl: /deals
 google_analytics: ''
 disqus: ''
