@@ -13,6 +13,10 @@ include: ["_pages"]
 permalink: /:title/
 email: sosohappy0106@gmail.com
 
+# author
+author:
+  avatar : assets/images/choco.png
+
 # Authors
 authors:
   seoys:
