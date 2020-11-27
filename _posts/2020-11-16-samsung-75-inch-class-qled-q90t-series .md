@@ -5,7 +5,7 @@ author: seoys
 categories: [ deal ]
 tags: [ amazon ]
 image: https://images-na.ssl-images-amazon.com/images/I/61pzhWiGSbL._AC_SL1000_.jpg
-description : "IRECT FULL ARRAY 16X* (75", 65" & 55"): Fine control of the lighting zones behind the screen, further improve the richness of the blacks to whites.  "
+description : "IRECT FULL ARRAY 16X* : Fine control of the lighting zones behind the screen, further improve the richness of the blacks to whites.  "
 rating: 5
 ---
 
